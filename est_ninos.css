@@ -1,0 +1,159 @@
+#site{
+width:1920px;
+height:1362px;
+margin-top:0;
+margin-left:auto;
+margin-bottom:0;
+margin-right:auto;
+background-color:white;
+}
+
+#header{
+  width:1920px;
+  height:196px;
+    margin-top:0;
+  background-color:#E9B531;
+    font-size: 150px;
+    color:white;
+  }
+#title{
+width:auto;
+height: 189px;
+margin-left: 128px;
+margin-top: -48px;
+float:left;
+font-style: normal;
+font-weight: normal;
+font-size: 150px;
+line-height: 183.19%;   
+}
+
+#icons{
+height: 102px;
+width: 700px;
+float:left;
+margin-top:55px;
+margin-left:280px;
+}
+
+#cuerpo{
+  width:1920px;
+  height:936px;
+  background-color:white;
+}
+
+#cuerpo-top{
+width:1920px;
+height:: 395px;
+text-align: center;
+margin-top: 70px;
+}
+
+#cuerpo-bottom{
+width= 1920px;
+height= 584px;
+}
+
+#girasoles{
+width:373px; 
+height:503px;
+margin-top: 80px;
+margin-left: 54px;
+float: left;
+}
+
+#cuarto{
+width:373px; 
+height:503px;
+margin-top: 120px;
+margin-left: 54px;
+float:left;
+}
+
+#Video{
+float: right;
+margin-top: 40px;
+margin-right: 20px
+}
+
+#Botones{
+width:1920px;
+height:120px;
+margin-top:auto;
+float: left;
+}
+
+#descarga1{
+width:173px;
+height:60px;
+background-color: #CA7512;
+font-size:36px;
+float:left;
+margin-left:143px;
+border-radius:15px;
+padding-top: 10px;
+padding-left:25px;
+}
+
+#descarga2{
+width:173px;
+height:60px;
+background-color: #CA7512;
+font-size:36px;
+float:left;
+margin-left:290px;
+border-radius:15px;
+padding-top: 10px;
+padding-left:25px;
+}
+
+#footer{
+  width:1920px;
+  height:230px;
+  background-color:#172841;
+}
+
+#menu{
+width: 620px;
+height: 230px;
+margin-left: 50px;
+float:left;
+font-size: 40px;
+color: white;
+line-height:80px;
+}
+
+#menu a:link{
+color: white;
+}
+#menu a:visited{
+color:#CA7512;
+}
+
+#correo{
+width: 670px; 
+height: 199px;
+float: left;
+font-size: 40px;
+color: white;
+margin-left: auto;
+margin-right: auto;
+}
+
+#caja{
+width: 407px; 
+height: 69px;
+border-radius: 15px;
+background-color: white;
+display:block;
+margin-right: auto;
+margin-left: auto;
+}
+
+#redes{
+width: 530px;
+height: auto;
+float: right;
+padding-top: 70px;
+padding-left:40px;
+}

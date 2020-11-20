@@ -1,0 +1,144 @@
+#site{
+width:1920px;
+height:1658px;
+margin:auto;
+    overflow-x: hidden;
+background-color:white;
+}
+
+#header{
+  width:1920px;
+  height:196px;
+    margin-top:0;
+  background-color:#E9B531;
+    font-size: 150px;
+    color:white;
+  }
+#title{
+width:auto;
+height: 189px;
+margin-left: 128px;
+margin-top: -48px;
+float:left;
+font-style: normal;
+font-weight: normal;
+font-size: 150px;
+line-height: 183.19%;   
+}
+
+#icons{
+height: 102px;
+width: 700px;
+float:left;
+margin-top:55px;
+margin-left:280px;
+}
+
+#cuerpo{
+  width:1920px;
+  height:1232px;
+  background-color:white;
+}
+
+#cuerpo-top{
+height: 685px;
+width: 1920px;
+font-size: 32px;
+}
+
+#imagen{
+width:507px;
+height: 618px;
+float: left;
+margin-top: 40px;
+margin-left: 169px;
+}
+
+#texto1{
+width: 989px;
+height: 452px;
+float: right;
+margin-top: 100px;
+line-height: 183.2%;
+margin-right: 111px;
+border-style: solid;
+border-color: #CA7512;
+padding-left: 15px;
+}
+
+#cuerpo-bottom{
+height: 547px;
+width: 1920px;
+font-size: 32px;
+}
+
+#texto2{
+width: 664px;
+height: 430px;
+float: left;
+line-height: 183.2%;
+margin-left: 77px;
+margin-top: 40px;
+border-style: solid;
+border-color: #CA7512;
+padding-left: 15px;
+padding-top: 15px;
+}
+
+#video{
+width: 907px;
+height: 520px;
+float:right;
+margin-right: 165px;
+}
+
+#footer{
+  width:1920px;
+  height:230px;
+  background-color:#172841;
+}
+
+#menu{
+width: 620px;
+height: 230px;
+margin-left: 50px;
+float:left;
+font-size: 40px;
+color: white;
+line-height:80px;
+}
+
+#menu a:link{
+color: white;
+}
+#menu a:visited{
+color:#CA7512;
+}
+
+#correo{
+width: 670px; 
+height: 199px;
+float: left;
+font-size: 40px;
+color: white;
+margin-left: auto;
+margin-right: auto;
+}
+
+#caja{
+width: 407px; 
+height: 69px;
+border-radius: 15px;
+background-color: white;
+display:block;
+margin-right: auto;
+margin-left: auto;
+}
+
+#redes{
+width: 530px;
+height: auto;
+float: right;
+padding-top: 70px;
+padding-left:40px;
+}

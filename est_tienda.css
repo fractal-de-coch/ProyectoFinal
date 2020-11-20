@@ -1,0 +1,137 @@
+#site{
+width:1920px;
+height:2200px;
+margin-top:0;
+margin-left:auto;
+margin-bottom:0;
+margin-right:auto;
+background-color:white;
+}
+
+#header{
+  width:1920px;
+  height:196px;
+    margin-top:0;
+  background-color:#E9B531;
+    font-size: 150px;
+    color:white;
+  }
+#title{
+width:auto;
+height: 189px;
+margin-left: 128px;
+margin-top: -48px;
+float:left;
+font-style: normal;
+font-weight: normal;
+font-size: 150px;
+line-height: 183.19%;   
+}
+
+#icons{
+height: 102px;
+width: 700px;
+float:left;
+margin-top:55px;
+margin-left:280px;
+}
+
+#cuerpo{
+  width:1920px;
+  height:1774px;
+  background-color:white;
+}
+
+#cuerpo1{
+width: 1650px;
+height: 470px;
+background-color:#E9B531;
+margin-top: 140px;
+margin-left:150px;
+}
+
+#cuerpo1 a:visited{
+color: #172841;
+}
+#cuerpo1 a:link{
+color: black;
+}
+
+#cuerpo2{
+width: 1650px;
+height: 603px;
+background-color:white ;
+margin-left:150px;
+}
+
+#cuerpo2 a:visited{
+color: #172841;
+}
+#cuerpo2 a:link{
+color: black;
+}
+
+#cuerpo3{
+width: 1650px;
+height: 470px;
+background-color:#E9B531;
+margin-left: 150px;
+}
+
+#cuerpo3 a:visited{
+color: #172841;
+}
+#cuerpo3 a:link{
+color: black;
+}
+
+#footer{
+  width:1920px;
+  height:230px;
+  background-color:#172841;
+}
+
+#menu{
+width: 600px;
+height: 230px;
+margin-left: 50px;
+float:left;
+font-size: 40px;
+color: white;
+line-height:80px;
+}
+
+#menu a:link{
+color: white;
+}
+#menu a:visited{
+color:#CA7512;
+}
+
+#correo{
+width: 670px; 
+height: 199px;
+float: left;
+font-size: 40px;
+color: white;
+margin-left: auto;
+margin-right: auto;
+}
+
+#caja{
+width: 407px; 
+height: 69px;
+border-radius: 15px;
+background-color: white;
+display:block;
+margin-right: auto;
+margin-left: auto;
+}
+
+#redes{
+width: 530px;
+height: auto;
+float: right;
+padding-top: 70px;
+padding-left:40px;
+}

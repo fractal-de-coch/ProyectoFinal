@@ -1,0 +1,157 @@
+#site{
+width:1920px;
+height:1080px;
+margin-top:0;
+margin-left:auto;
+margin-bottom:0;
+margin-right:auto;
+background-color:white;
+}
+
+#header{
+  width:1920px;
+  height:196px;
+    margin-top:0;
+  background-color:#E9B531;
+    font-size: 150px;
+    color:white;
+  }
+#title{
+width:auto;
+height: 189px;
+margin-left: 128px;
+margin-top: -48px;
+float:left;
+font-style: normal;
+font-weight: normal;
+font-size: 150px;
+line-height: 183.19%;   
+}
+
+#icons{
+height: 102px;
+width: 700px;
+float:left;
+margin-top:55px;
+margin-left:280px;
+}
+
+
+#cuerpo{
+  width:1920px;
+  height:654px;
+  background-color:white;
+}
+
+#cuerpo-left{
+width:765px; 
+height:526px;
+float:left;
+margin-top:60px;
+margin-left: 135px;
+background-image: url(Img/Expo1.jpg);
+}
+
+#boton1{
+width:630px;
+height:105px;
+background-color: #172841;
+border-radius:38px;
+float:left;
+opacity: 80%;
+margin-top: 394px;
+margin-left: 8px;
+font-size: 75px;
+padding-left: 40px;
+padding-top:15px;
+color:white;
+}
+
+#boton1 a:link{
+color:white;
+}
+#boton1 a:visited{
+color:white;
+}
+
+#cuerpo-right{
+width:765px; 
+height:526px;
+float:left;
+margin-top:60px;
+margin-left: 135px;
+background-image: url(Img/Expo2.jpg);  
+}
+
+#boton2{
+width:630px;
+height:105px;
+background-color: #172841;
+border-radius:38px;
+float:left;
+opacity: 80%;
+margin-top: 394px;
+margin-left: 8px;
+font-size: 75px;
+padding-left: 40px;
+padding-top:15px;
+color:white;
+}
+
+#boton2 a:link{
+color:white;
+}
+#boton2 a:visited{
+color:white;
+}
+
+#footer{
+  width:1920px;
+  height:230px;
+  background-color:#172841;
+}
+
+#menu{
+width: 620px;
+height: 230px;
+margin-left: 50px;
+float:left;
+font-size: 40px;
+color: white;
+line-height:80px;
+}
+
+#menu a:link{
+color: white;
+}
+#menu a:visited{
+color:#CA7512;
+}
+
+#correo{
+width: 670px; 
+height: 199px;
+float: left;
+font-size: 40px;
+color: white;
+margin-left: auto;
+margin-right: auto;
+}
+
+#caja{
+width: 407px; 
+height: 69px;
+border-radius: 15px;
+background-color: white;
+display:block;
+margin-right: auto;
+margin-left: auto;
+}
+
+#redes{
+width: 530px;
+height: auto;
+float: right;
+padding-top: 70px;
+padding-left:40px;
+}
